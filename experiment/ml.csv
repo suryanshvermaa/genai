@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term 'machine learning'?,a: Donald Hebb | b: Walter Pitts | c: Arthur Samuel | d: Tom M. Mitchell,c
+Which of the following is NOT mentioned as an application of Machine Learning in the provided text?,a: Email filtering | b: Agriculture | c: Quantum Computing | d: Speech recognition,c
+"What is the focus of Data mining, a field related to machine learning?",a: Prediction based on training data | b: Exploratory data analysis via unsupervised learning | c: Development of statistical algorithms | d: Minimization of loss functions,b
+"According to Tom M. Mitchell's definition, what are the three components involved in machine learning?","a: Data, Algorithms, and Predictions | b: Experience, Task, and Performance Measure | c: Inputs, Outputs, and Rules | d: Training, Testing, and Validation",b
+"What is a key distinction between machine learning and statistics, according to the text?","a: Machine learning focuses on population inferences, while statistics finds generalizable predictive patterns. | b: Statistics requires a pre-structured model, while machine learning allows the data to shape the model. | c: Both fields use completely different methods and have no overlap. | d: Statistics is only used for supervised learning, while machine learning is only used for unsupervised learning.",b
