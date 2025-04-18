@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: suryansh verma
+Author-email: suryanshv.ug23.ee@nitp.ac.in
+Requires-Dist: langchain
+Requires-Dist: python-dotenv
+Requires-Dist: langchain_google_genai
+Requires-Dist: streamlit
+Requires-Dist: PyPdf2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

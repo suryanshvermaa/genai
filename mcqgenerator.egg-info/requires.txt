@@ -3,5 +3,3 @@ python-dotenv
 langchain_google_genai
 streamlit
 PyPdf2
-# ipykernel  #for jupytor notebook
--e .
