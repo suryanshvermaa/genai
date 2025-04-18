@@ -1,0 +1,1 @@
+[2025-04-18 23:40:37,697] 41 root - ERROR - Error: 'UploadedFile' object has no attribute 'endswith'

@@ -1,3 +1,3 @@
 from src.mcqgenerator.logger import logging
 
-logging.info("This is an info message")
+logging.info("I am building mcq ai")
